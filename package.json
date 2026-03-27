@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-competitor-viral-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}
